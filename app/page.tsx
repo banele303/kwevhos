@@ -4,7 +4,6 @@ import Link from "next/link";
 import { Navbar } from "./components/ui/Navbar";
 import Footer from "./components/ui/footer";
 import HeroSlider from "./components/home-slider";
-import ContactForm from "./components/ui/contact-us";
 import Testimonials from "./components/ui/testimonial-section";
 import { Button } from "@/components/ui/button";
 import FRQ from "./components/ui/FRQ";
