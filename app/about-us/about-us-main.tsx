@@ -15,12 +15,12 @@ export default function AboutUs() {
           <div className="space-y-6">
             <h2 className="text-2xl md:text-3xl font-semibold text-center text-gray-800">ABOUT US</h2>
             <p className="text-gray-600">
-              At Kwevho's Business Enterprise, we've established ourselves as a trusted partner for businesses since 2003, leveraging our
+              At Kwevho&apos;s Business Enterprise, we&apos;ve established ourselves as a trusted partner for businesses since 2003, leveraging our
               expertise to deliver high-quality services and tailored solutions that meet the distinct needs of our clients in different
               industries.
             </p>
             <p className="text-gray-600">
-              With over two decades of experience, we've built strong relationships with our clients, founded on trust, professionalism,
+              With over two decades of experience, we&apos;ve built strong relationships with our clients, founded on trust, professionalism,
               and a deep understanding of their needs.
             </p>
             <h2 className="text-2xl md:text-3xl text-center font-semibold text-gray-800">Our Mission</h2>
@@ -63,8 +63,8 @@ export default function AboutUs() {
         <section className="space-y-4">
           <h2 className="text-3xl font-semibold text-gray-800 text-center">Why Choose Us</h2>
           <div className="text-gray-600 space-y-2">
-            <p>Proven Track Record: We've built a reputation for delivering high-quality work and exceeding client expectations.</p>
-            <p>Long-Term Partnerships: We're committed to fostering long-term relationships with our clients.</p>
+            <p>Proven Track Record: We&apos;ve built a reputation for delivering high-quality work and exceeding client expectations.</p>
+            <p>Long-Term Partnerships: We&apos;re committed to fostering long-term relationships with our clients.</p>
             <p>Our Team: Our experts work closely with clients to understand their needs and deliver tailored solutions.</p>
           </div>
         </section>
