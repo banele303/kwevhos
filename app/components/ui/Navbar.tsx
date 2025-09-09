@@ -4,28 +4,12 @@ import * as React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { usePathname } from 'next/navigation'
-import { Phone, Menu, ChevronDown } from 'lucide-react'
+import { Phone, Menu } from 'lucide-react'
 import { IconBrandWhatsapp } from '@tabler/icons-react'
 
 import { cn } from '@/lib/utils'
 import { Button } from '@/components/ui/button'
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuTrigger,
-} from '@/components/ui/dropdown-menu'
-import {
-  Sheet,
-  SheetContent,
-  SheetTrigger,
-} from '@/components/ui/sheet'
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion"
+import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet'
 
 const NavItem = ({ href, children }: { href: string; children: React.ReactNode }) => {
   const pathname = usePathname()
