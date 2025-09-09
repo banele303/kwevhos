@@ -55,7 +55,7 @@ export default function Form() {
             <Input
               id="phone"
               type="tel"
-              placeholder="(+27) 63 458 2860"
+              placeholder="(+27) 72 896 0780"
               required
               className="h-11"
             />

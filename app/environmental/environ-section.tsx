@@ -76,7 +76,7 @@ export default function AboutEnvironmentalSolutions() {
             </ul>
 
             <Button className="w-full md:w-auto">
-                <Link href="tel:+27634582860">Call Now for Assistance →</Link>
+                <Link href="tel:+27728960780">Call Now for Assistance →</Link>
             </Button>
         </div>
     );

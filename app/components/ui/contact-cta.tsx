@@ -17,9 +17,9 @@ export default function ContactCTA() {
           <h2 className="text-xl md:text-3xl font-bold mb-4">Ready to Transform Your Future?</h2>
           <p className="text-xl mb-8">Contact us today for a free consultation </p>
           <Button asChild variant="outline" className="mt-4 bg-orange-800">
-                    <Link href="tel:+27634582860">
+                    <Link href="tel:+27728960780">
                       <Phone className="mr-1 h-4 w-4" />
-                      Call Us : +27634582860
+                      Call Us : +27728960780
                     </Link>
                   </Button>
         </motion.div>

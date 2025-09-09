@@ -92,7 +92,7 @@ export default function ServicesPage() {
           <p className="mb-6 text-lg">Call us for fast, friendly, and effective pest solutions.</p>
           <div className="flex justify-center">
             <Button asChild size="lg" className="bg-white text-emerald-700 hover:bg-white/90">
-              <Link href="tel:+27634582860">Call Now</Link>
+              <Link href="tel:+27728960780">Call Now</Link>
             </Button>
           </div>
         </div>

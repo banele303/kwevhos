@@ -18,7 +18,7 @@ export default function ContactForm() {
                     <div className="space-y-4 pt-4">
                         <div className="flex items-center">
                             <Phone className="w-6 h-6 text-blue-600 mr-2" />
-                            <span>+27 63 458 2860</span>
+                            <span>+27 72 896 0780</span>
                         </div>
                         <div className="flex items-center">
                             <Mail className="w-6 h-6 text-blue-600 mr-2" />
@@ -26,7 +26,7 @@ export default function ContactForm() {
                         </div>
                         <div className="flex items-center">
                             <MapPin className="w-6 h-6 text-blue-600 mr-2" />
-                            <span>Gauteng, South Africa</span>
+                            <span>192 Hillary Dr, Bendor Ext 23, Polokwane, 0699</span>
                         </div>
                     </div>
 

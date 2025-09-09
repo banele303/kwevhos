@@ -155,11 +155,11 @@ const HeroSlider = () => {
 																						transition={{ delay: 0.3, duration: 0.75 }}
 															>
 																<a
-																	href="tel: +27634582860"
+																	href="tel: +27728960780"
 																							className="inline-flex items-center justify-center rounded-full px-6 py-3 text-sm md:text-base font-semibold text-white bg-gradient-to-r from-emerald-600 to-emerald-400 hover:from-emerald-700 hover:to-emerald-500 shadow-lg shadow-black/30 transition"
 																							style={{ boxShadow: '0 10px 30px rgba(16, 185, 129, .35)' }}
 																>
-																	Call Us: +27 63 458 2860
+																	Call Us: +27 72 896 0780
 																</a>
 															</motion.div>
 
@@ -178,7 +178,7 @@ const HeroSlider = () => {
 															>
 																<span className="rounded-full border border-white/20 bg-white/5 px-3 py-1">Since 2003</span>
 																<span className="rounded-full border border-white/20 bg-white/5 px-3 py-1">Pest control specialists</span>
-																<span className="rounded-full border border-white/20 bg-white/5 px-3 py-1">Gauteng, South Africa</span>
+																<span className="rounded-full border border-white/20 bg-white/5 px-3 py-1">192 Hillary Dr, Bendor Ext 23, Polokwane, 0699</span>
 															</motion.div>
 														</motion.div>
 													</AnimatePresence>

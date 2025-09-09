@@ -99,7 +99,7 @@ Kwevhos Business Enterprise
             transition={{ duration: 0.5, delay: 0.6 }}
           >
             <Button asChild size="lg" className="w-full sm:w-auto bg-emerald-600 hover:bg-emerald-700 text-white text-md md:text-base">
-              <Link href="tel:+27634582860" className="inline-flex items-center gap-2 whitespace-nowrap">
+              <Link href="tel:+27728960780" className="inline-flex items-center gap-2 whitespace-nowrap">
                 <Phone className="h-4 w-4" />
                 CALL NOW
               </Link>

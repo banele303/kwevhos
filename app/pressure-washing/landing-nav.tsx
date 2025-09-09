@@ -55,7 +55,7 @@ const LandingNav = () => {
 
 
                                 <li className=" py-2 px-6  border-5 border-sky-900 cursor-pointer text-[17px] font-Poppins text-slate-200 font-bold">
-                                    <a href="tel:+27 74 684 5729" className="lg:flex">
+                                    <a href="tel:+27728960780" className="lg:flex">
                                         <Button variant="destructive"> Call Now +27 63 199 5124</Button>
 
                                     </a>

@@ -50,7 +50,7 @@ export default function Footer() {
                         <ul className="space-y-3 text-sm">
                             <li className="flex items-center gap-2">
                                 <Phone size={16} />
-                                <a href="tel:+27634582860" className="hover:text-white">+27 63 458 2860</a>
+                                <a href="tel:+27728960780" className="hover:text-white">+27 72 896 0780</a>
                             </li>
                             <li className="flex items-center gap-2">
                                 <Mail size={16} />
@@ -58,7 +58,7 @@ export default function Footer() {
                             </li>
                             <li className="flex items-center gap-2">
                                 <MapPin size={16} />
-                                <span>Gauteng, South Africa</span>
+                                <span>192 Hillary Dr, Bendor Ext 23, Polokwane, 0699</span>
                             </li>
                         </ul>
                     </div>
