@@ -10,17 +10,17 @@ const services = [
   {
     title: "Pest Inspections",
     desc: "Thorough site assessments to detect and quantify pest issues.",
-    image: "/pest6.jpeg",
+    image: "/inspecion.jpeg",
   },
   {
     title: "Treatments",
     desc: "Targeted chemical and non-chemical eradication methods.",
-    image: "/pest7.jpeg",
+    image: "/treatments.jpeg",
   },
   {
     title: "Prevention",
-    desc: "Seal entry points and sanitation best practices to prevent return.",
-    image: "/pest8.jpeg",
+    desc: "Seal entry points and sanitation to prevent return.",
+    image: "/pest3.jpeg",
   },
   {
     title: "24/7 Emergency",
@@ -42,7 +42,7 @@ export default function ServicesPage() {
           <div>
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-3">Our Services</h1>
             <p className="text-white/90 max-w-2xl mx-auto">
-              Professional, safe, and effective pest control for homes and businesses.
+              Professional, safe, and effective pest control for Residential, Commercial and Industrial.
             </p>
           </div>
         </div>
@@ -89,7 +89,7 @@ export default function ServicesPage() {
       <section className="py-16 bg-emerald-600 text-white">
         <div className="container mx-auto px-4 max-w-5xl text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-3">Need Help Now?</h2>
-          <p className="mb-6 text-lg">Call us for fast, friendly, and effective pest solutions.</p>
+          <p className="mb-6 text-lg">Call us for fast, and effective  solutions.</p>
           <div className="flex justify-center">
             <Button asChild size="lg" className="bg-white text-emerald-700 hover:bg-white/90">
               <Link href="tel:+27728960780">Call Now</Link>

@@ -8,8 +8,8 @@ export default function Footer() {
             <div className="container mx-auto px-6 py-16">
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
                     <div>
-                        <h3 className="text-2xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-300">Kwevhos Business Enterprise</h3>
-                        <p className="mt-3 text-sm text-gray-400 max-w-xs">Empowering industries with innovative solutions and uncompromising service.</p>
+                        <h3 className="text-2xl font-extrabold tracking-tight whitespace-nowrap bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-300">Kwevhos Business Enterprise</h3>
+                        <p className="mt-3 text-sm text-gray-400 max-w-xs">Empowering industries with innovative solutions.</p>
                         <div className="mt-5 flex items-center gap-3">
                             <a aria-label="Facebook" href="#" className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-white/5 ring-1 ring-white/10 hover:bg-white/10 transition">
                                 <Facebook size={18} />
@@ -38,30 +38,9 @@ export default function Footer() {
                         </ul>
                     </div>
 
-                    <div>
-                        <h3 className="text-lg font-semibold mb-4">Industries</h3>
-                        <ul className="space-y-2 text-sm">
-                            {/* Environmental link removed */}
-                        </ul>
-                    </div>
+                
 
-                    <div>
-                        <h3 className="text-lg font-semibold mb-4">Contact</h3>
-                        <ul className="space-y-3 text-sm">
-                            <li className="flex items-center gap-2">
-                                <Phone size={16} />
-                                <a href="tel:+27728960780" className="hover:text-white">+27 72 896 0780</a>
-                            </li>
-                            <li className="flex items-center gap-2">
-                                <Mail size={16} />
-                                <a href="mailto:info@kwevhos.co.za" className="text-gray-400 hover:text-white">info@kwevhos.co.za</a>
-                            </li>
-                            <li className="flex items-center gap-2">
-                                <MapPin size={16} />
-                                <span>192 Hillary Dr, Bendor Ext 23, Polokwane, 0699</span>
-                            </li>
-                        </ul>
-                    </div>
+                    
                 </div>
 
                 <div className="mt-12 rounded-xl border border-white/10 bg-white/5 backdrop-blur-sm p-5 text-center">

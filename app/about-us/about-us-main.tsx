@@ -20,7 +20,7 @@ export default function AboutUs() {
               industries.
             </p>
             <p className="text-gray-600">
-              With over two decades of experience, we&apos;ve built strong relationships with our clients, founded on trust, professionalism,
+              With over two decades of experience, we&apos;ve built strong relationships with our clients, founded on trust, professionalism
               and a deep understanding of their needs.
             </p>
             <h2 className="text-2xl md:text-3xl text-center font-semibold text-gray-800">Our Mission</h2>
