@@ -7,9 +7,8 @@ const testimonials = [
   { name: 'Nomsa M.', text: 'Professional, responsive, and results-driven. Their solutions made a real difference for our business.' },
   { name: 'David L.', text: 'Reliable and high-quality work. The team is knowledgeable and easy to work with.' },
   { name: 'Emily K.', text: 'Great communication and execution from start to finish. Highly recommended.' },
-  { name: 'Sipho S.', text: 'They took time to understand our needs and delivered tailored solutions that worked.' },
+ 
   { name: 'Ayesha R.', text: 'Impressive attention to detail and commitment to excellence.' },
-  { name: 'Tendai N.', text: 'Trusted partner who consistently delivers value.' },
 ]
 
 export default function Testimonials() {

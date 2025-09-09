@@ -101,7 +101,6 @@ export default function Home() {
   {/* Careers CTA removed */}
 
       {/* Contacts */}
-      <ContactForm />
       <Footer />
     </div>
   );
