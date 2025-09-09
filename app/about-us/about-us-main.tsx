@@ -2,6 +2,7 @@
 
 
 import { Card, CardContent } from "@/components/ui/card"
+import SmartList from "../components/smart-list"
 import { Shield, ThumbsUp, Wrench } from "lucide-react"
 
 
@@ -59,13 +60,21 @@ export default function AboutUs() {
           </div>
         </section>
 
-        {/* Why Choose Us */}
-        <section className="space-y-4">
-          <h2 className="text-3xl font-semibold text-gray-800 text-center">Why Choose Us</h2>
-          <div className="text-gray-600 space-y-2">
-            <p>Proven Track Record: We&apos;ve built a reputation for delivering high-quality work and exceeding client expectations.</p>
-            <p>Long-Term Partnerships: We&apos;re committed to fostering long-term relationships with our clients.</p>
-            <p>Our Team: Our experts work closely with clients to understand their needs and deliver tailored solutions.</p>
+        {/* Why Choose Us - mirrored style from Home */}
+        <section className="py-16 bg-gray-50 rounded-xl">
+          <div className="px-4">
+            <h2 className="text-3xl md:text-4xl font-bold text-center mb-6">Why Choose Us</h2>
+            <div className="max-w-3xl mx-auto">
+              <SmartList
+                items={[
+                  "Collaborations Built on Trust",
+                  "Delivering Outstanding Outcomes",
+                  "Consistent Track Record of Success ",
+                  "Commitment to Excellence and Quality ",
+                  "Anticipating Trends, Embracing Innovation ",
+                ]}
+              />
+            </div>
           </div>
         </section>
 

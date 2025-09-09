@@ -24,6 +24,9 @@ export default function Footer() {
                                 <Linkedin size={18} />
                             </a>
                         </div>
+                        <div className="mt-4">
+                            <a href="tel:+27645285729" className="text-sm text-gray-300 hover:text-white">064 528 5729</a>
+                        </div>
                     </div>
 
                     <div>

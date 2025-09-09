@@ -68,9 +68,9 @@ export function Navbar() {
           </nav>
           <div className="flex items-center space-x-4">
             <div className="hidden md:flex items-center gap-3 text-sm font-medium text-muted-foreground">
-              <a href="tel:+27728960780" className="inline-flex items-center gap-2 hover:text-primary">
+              <a href="tel:+27645285729" className="inline-flex items-center gap-2 hover:text-primary">
                 <Phone className="h-4 w-4" />
-                +27 72 896 0780
+                064 528 5729
               </a>
               <a
                 href="https://wa.me/27728960780"
@@ -83,7 +83,7 @@ export function Navbar() {
               </a>
             </div>
             <Button asChild className="hidden md:inline-flex" variant="outline">
-              <Link href="tel:+27728960780">
+              <Link href="tel:+27645285729">
                 <Phone className="mr-2 h-4 w-4" />
                 Call Us
               </Link>
@@ -115,7 +115,7 @@ export function Navbar() {
                   {/* Careers link removed */}
                   <NavItem href="/contacts">Contacts</NavItem>
                   <Button asChild variant="outline" className="mt-4">
-                    <Link href="tel:+27728960780">
+                    <Link href="tel:+27645285729">
                       <Phone className="mr-2 h-4 w-4" />
                       Call Us
                     </Link>

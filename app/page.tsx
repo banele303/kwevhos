@@ -77,52 +77,7 @@ export default function Home() {
 
   {/* Featured Industry section removed; Environmental content moved under About Us */}
 
-      {/* About Us with Mission, Values, Why */}
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-4 max-w-6xl">
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-10">About Us</h2>
-          <div className="grid md:grid-cols-2 gap-8 items-start">
-            {/* Left column */}
-            <div className="space-y-6 text-gray-700 leading-relaxed">
-              <p>
-                At Kwevhos Business Enterprise, we&apos;ve established ourselves as a trusted partner since 2003—delivering high-quality
-                services and tailored solutions that meet the distinct needs of our clients across industries.
-              </p>
-              <p>
-                With over two decades of experience, we&apos;ve built strong relationships founded on trust, professionalism, and a deep
-                understanding of our clients&apos; needs.
-              </p>
-              <div>
-                <h3 className="text-2xl font-semibold mb-2 text-gray-900">Our Mission</h3>
-                <p>
-                  To provide innovative solutions that meet the unique needs of our clients, while fostering long-term relationships
-                  built on trust and excellence.
-                </p>
-              </div>
-            </div>
-
-            {/* Right column */}
-            <div className="grid gap-6">
-              <div className="rounded-xl border bg-white p-5 shadow-sm">
-                <h3 className="text-2xl font-semibold mb-3 text-gray-900">Our Values</h3>
-                <ul className="list-disc pl-5 space-y-2 text-gray-700">
-                  <li><span className="font-medium">Integrity:</span> We operate with transparency and honesty in all our dealings.</li>
-                  <li><span className="font-medium">Professionalism:</span> We maintain the highest standards in our work.</li>
-                  <li><span className="font-medium">Customer Focus:</span> We deliver solutions that evolve with client needs.</li>
-                </ul>
-              </div>
-              <div className="rounded-xl border bg-white p-5 shadow-sm">
-                <h3 className="text-2xl font-semibold mb-3 text-gray-900">Why Choose Us</h3>
-                <ul className="list-disc pl-5 space-y-2 text-gray-700">
-                  <li><span className="font-medium">Proven Track Record:</span> High-quality work that exceeds expectations.</li>
-                  <li><span className="font-medium">Long-Term Partnerships:</span> We invest in lasting relationships.</li>
-                  <li><span className="font-medium">Expert Team:</span> Specialists who collaborate to deliver tailored outcomes.</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      
 
       {/* Our Partners */}
       <section className="py-16 bg-gray-50">

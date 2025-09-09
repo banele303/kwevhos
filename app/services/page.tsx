@@ -42,7 +42,7 @@ export default function ServicesPage() {
           <div>
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-3">Our Services</h1>
             <p className="text-white/90 max-w-2xl mx-auto">
-              Professional, safe, and effective pest control for Residential, Commercial and Industrial.
+              Professional, safe and effective pest control for Residential, Commercial and Industrial.
             </p>
           </div>
         </div>
@@ -89,7 +89,7 @@ export default function ServicesPage() {
       <section className="py-16 bg-emerald-600 text-white">
         <div className="container mx-auto px-4 max-w-5xl text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-3">Need Help Now?</h2>
-          <p className="mb-6 text-lg">Call us for fast, and effective  solutions.</p>
+          <p className="mb-6 text-lg">Call us for fast and effective  solutions.</p>
           <div className="flex justify-center">
             <Button asChild size="lg" className="bg-white text-emerald-700 hover:bg-white/90">
               <Link href="tel:+27728960780">Call Now</Link>
