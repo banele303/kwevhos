@@ -15,7 +15,7 @@ const services = [
   {
     title: "Treatments",
     desc: "Targeted chemical and non-chemical eradication methods.",
-    image: "/treatments.jpeg",
+    image: "/pest12.jpeg",
   },
   {
     title: "Prevention",

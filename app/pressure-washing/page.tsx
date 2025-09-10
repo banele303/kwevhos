@@ -80,7 +80,7 @@ export default function RoofCleanHome() {
             <h2 className="text-3xl font-bold text-center mb-8">Welcome to Modern Renovator</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
               <div>
-                <p className="mb-4">At Modern Renovator we specialize in high-quality pressure washing services to revitalize your driveway, walls, pool areas, and cement surfaces. Our team uses advanced equipment and techniques to effectively remove dirt, grime, and tough stains, restoring your surfaces to their original beauty and brightness.
+                <p className="mb-4">At Modern Renovator we specialize in high-quality pressure washing services to revitalize your driveway, walls, pool areas and cement surfaces. Our team uses advanced equipment and techniques to effectively remove dirt, grime and tough stains, restoring your surfaces to their original beauty and brightness.
              </p>
                 <p className="mb-4">We understand how important a clean, well-maintained property is for curb appeal and long-term value. Whether its years of buildup on your driveway or algae growth around your pool, our experienced technicians are equipped to handle all types of challenges safely and efficiently. We prioritize customer satisfaction and go the extra mile to ensure sparkling results with every job.</p>
                 <p>Transform your property with professional pressure washing that you can trust. Contact us today to schedule a service and discover the difference a thorough cleaning can make to your homes exterior!</p>
