@@ -41,6 +41,15 @@ export default function Footer() {
                         </ul>
                     </div>
 
+                    <div>
+                        <h3 className="text-lg font-semibold mb-4">Locations</h3>
+                        <ul className="space-y-2 text-sm text-gray-400">
+                            <li>192 Hillary Dr, Bendor Ext 23, Polokwane, 0699</li>
+                            <li>154 Stapelia Street No3, Waterkloof Heights, Pretoria, 0181</li>
+                            <li>101 Mangilasi Village, Tshivhazwaulu, 0152</li>
+                        </ul>
+                    </div>
+
                 
 
                     

@@ -28,6 +28,14 @@ export default function ContactForm() {
                             <MapPin className="w-6 h-6 text-blue-600 mr-2" />
                             <span>192 Hillary Dr, Bendor Ext 23, Polokwane, 0699</span>
                         </div>
+                        <div className="flex items-center">
+                            <MapPin className="w-6 h-6 text-blue-600 mr-2" />
+                            <span>154 Stapelia Street No3, Waterkloof Heights, Pretoria, 0181</span>
+                        </div>
+                        <div className="flex items-center">
+                            <MapPin className="w-6 h-6 text-blue-600 mr-2" />
+                            <span>101 Mangilasi Village, Tshivhazwaulu, 0152</span>
+                        </div>
                     </div>
 
 
