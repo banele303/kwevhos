@@ -8,7 +8,7 @@ export default function AboutEnvironmentalSolutions() {
             <div className="w-24 h-1 bg-green-400 mx-auto mb-6"></div>
 
             <p className="md:text-center text-[18px] mb-12">
-                We specialize in comprehensive pest control solutions tailored to protect homes, businesses, and properties from unwanted pests. With expert technicians, friendly methods, and a commitment to customer satisfaction, we ensure safe and effective pest management.
+                We specialize in comprehensive pest control solutions tailored to protect homes, businesses and properties from unwanted pests. With expert technicians, friendly methods and a commitment to customer satisfaction, we ensure safe and effective pest management.
             </p>
 
             
